@@ -1,0 +1,29 @@
+body
+{background-color: rgb(159, 26, 26);     
+    }
+
+header
+{text-align:center;
+    }
+
+.topTitles
+{list-style-position: inside;
+ display: inline;
+ padding: 11px;
+ }
+
+article
+{text-align: center;
+ max-width: 700px;
+ padding: 25px; 
+ margin: 0 auto;
+ text-align: left;
+    }
+
+header
+    {background: url(Images/CutedogHeader.jpg);
+     background-size: cover;
+     padding: 150px;
+     font-size: 30px;
+     border-radius: 10px;
+    }
